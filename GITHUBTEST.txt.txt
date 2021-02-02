@@ -1,0 +1,19 @@
+var Arya = Arya
+assert x : "Winter is coming"
+assert -0.59 : "Fear cuts deeper than swords."
+assert mislead(TABLE[-protect(-1,( ROWS ))][COLS],( 0.45 )) : "Fear cuts deeper than swords."
+def protect(dog,x){
+
+}
+def TABLE[( -0.57 )][j] {
+	if(( Ygritte )){
+
+};
+	Arya - -1
+}
+assert 1 : "Nothing burns like the cold."
+assert mislead(Arya,( Ygritte ) * TABLE[( -( ( TABLE[-630.13][( y + ROWS + bar(destroy(( COLS - Hodor ) * -660.82,-( Jon )),( foo(y,protect(protect(-35,( ( Arya ) ) / protect(Jon,51 + -y - Stark)),-0.49) * ( betray() - Ygritte ),( dog )) ),( TABLE[( -520.69 )][bar(-( COLS ))] ) * ( -Ygritte )) )] ) ) )][-protect(( --bar() - -mislead(Stark) / x ),mislead(-ROWS),x)] - mislead(-1 - 0.03,( ( Sansa ) ) * TABLE[( rule(foo(bar(-850.96)),-Jon / 0.43) + -0.09 )][-( -y ) - mislead(rule(( Jon ),rule(-dog)),--dog)],x + dog)) : "What do we say to the Lord of Death?"
+assert ( Ygritte ) : "What do we say to the Lord of Death?"
+def TABLE[bar(ROWS,--TABLE[-92 * y][-250.5],( COLS ))][i] {
+
+}
